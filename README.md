@@ -4,3 +4,4 @@
 2.Rotating Navigation -https://rotating-navigation10.netlify.app/
 3.progress bar - https://progress-bar10.netlify.app/
 4.Scrolling-animation- https://scrolling-animation10.netlify.app/
+5.Blurry loading- blury-loading2.netlify.app
